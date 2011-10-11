@@ -10,3 +10,7 @@ target/
 bin/
 /*/src/main/java/META-INF
 .gitignore.swp
+nb-configuration.xml
+faces-config.NavData
+
+
